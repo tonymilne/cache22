@@ -1,5 +1,5 @@
 {
-  "name": "Cache22",
+  "name": "cache22",
   "description": "Caching for node apps. Currently supports memory and redis stores.",
   "version": "0.1.0",
   "homepage": "https://github.com/tonymilne/cache22",
